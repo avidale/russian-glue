@@ -6,3 +6,4 @@ Sentence embeddings:
 
 Word embeddings, NER, morphology, syntax:
 - https://github.com/natasha/naeval
+- https://github.com/natasha/corus
